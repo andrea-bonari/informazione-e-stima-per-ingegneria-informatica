@@ -38,3 +38,4 @@ $$\#\text{ totale di scelte}=\prod_{i=1}^{r}n_{i}$$
 >Dove $n_{i}$ sono quindi partizioni di $n$.
 >Si ha che il numero totale di partizioni creabili è:
 >$$\binom{n}{n_{1},\cdots,n_{r}}=\frac{n!}{n_{1}!\cdots n_{r}!}$$
+

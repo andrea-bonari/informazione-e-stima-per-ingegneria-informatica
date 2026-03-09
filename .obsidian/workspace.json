@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilità/Calcolo combinatorio.md",
+                "file": "Probabilità/Variabili aleatorie/Variabili aleatorie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calcolo combinatorio"
+              "title": "Variabili aleatorie"
             }
           }
         ]
@@ -172,12 +172,14 @@
   },
   "active": "211b4075f4840778",
   "lastOpenFiles": [
-    "Probabilità/Indipendenza.md",
+    "index.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie.md",
+    "Probabilità/Variabili aleatorie",
+    "Introduzione al corso.md",
     "Probabilità/Calcolo combinatorio.md",
+    "Probabilità/Indipendenza.md",
     "Probabilità/Probabilità condizionate.md",
     "Probabilità/Calcolo delle probabilità.md",
-    "index.md",
-    "Introduzione al corso.md",
     "Probabilità",
     "VHDL/Linguaggio VHDL.md",
     "Reti logiche/Logiche programmabili.md",
@@ -215,8 +217,6 @@
     "Algebra di Boole",
     "temp",
     "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
-    "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
-    "Equazioni differenziali/Studio qualitativo",
-    "Funzioni a più variabili/Calcolo integrale"
+    "Equazioni differenziali/Studio qualitativo"
   ]
 }

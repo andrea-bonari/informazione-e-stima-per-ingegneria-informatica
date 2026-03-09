@@ -5,3 +5,4 @@ Il corso introduce i concetti di probabilità e variabili casuali, partendo da s
 	1. [[Probabilità condizionate]]
 	2. [[Indipendenza]]
 	3. [[Calcolo combinatorio]]
+	4. [[Variabili aleatorie]]
