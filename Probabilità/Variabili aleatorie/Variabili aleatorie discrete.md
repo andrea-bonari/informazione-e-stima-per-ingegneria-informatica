@@ -28,6 +28,8 @@ La legge della probabilità soddisfa sempre tutti gli assiomi delle probabilità
 >$$X\sim\text{Bin}(n,p)\iff p_{X}(k)= \binom{n}{k}\cdot p^{k}\cdot(1-p)^{n-k}\cdot\mathbb{1}\set{k=0,\cdots,n}$$
 >Dove $n$ è il numero di prove indipendenti, mentre $p$ è la probabilità di successo della singola prova.
 
+Siano due eventi generici $A,B$, con $A=\set{X=x}$ e $B=\set{Y=y}$. Possiamo indicare: $$P(A|B)=p_{X|Y}(x|y)$$
+Si ha inoltre che: $$P(\set{X=x}|B)=p_{X|B}(x)$$
 ### Valore atteso
 >[!note]
 >Definiamo il valore atteso di una legge di probabilità come:
@@ -41,6 +43,7 @@ La legge della probabilità soddisfa sempre tutti gli assiomi delle probabilità
 >Si ha inoltre che se una generica $g(x)$ è lineare in $x$, allora: $$E[g(X)]=g(E[X])$$
 >In caso $g(x)$ non sia lineare questa proprietà non è valida.
 
+Siano due eventi generici $A,B$, con $A=\set{X=x}$ e $B=\set{Y=y}$. Possiamo dire che: $$E[X|B]=\sum\limits_{x\in\mathbb{R}}x\cdot p_{X|B}(x)$$
 ### Varianza
 >[!note]
 >Definiamo la varianza di una variabile aleatoria come:
@@ -55,3 +58,15 @@ Inoltre, in generale: $$\text{Var}[\alpha X+\beta]= \alpha^{2}\text{Var}[X]$$
 >[!tip] Scarto quadratico medio
 >Definiamo lo scarto quadratico medio di una generica variabile aleatoria $X$ come:
 >$$\sigma_{X}=\sqrt{\text{Var}[X]}$$
+
+### Legge della perdita di memoria
+>[!note]
+>Si ha che per $X$ variabile aleatoria geometrica discreta, vale:
+>$$p_{X-t|X>t}(k)=p_{X}(k)\qquad \forall k,t\in\mathbb{N}$$
+
+Come conseguenza diretta si ha che:
+$$E[X-t|X>t]=E[X]\qquad\forall t\in\mathbb{N}$$
+### Legge dell'aspettativa totale
+>[!note]
+>Siano $A_{1},\cdots,A_{n}$ partizioni di $\Omega$. Si ha che:
+>$$E[X]=\sum\limits_{i=1}^{n}P(A_{i})\cdot E[X|A_{i}]$$

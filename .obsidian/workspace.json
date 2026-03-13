@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilità/Variabili aleatorie/Variabili aleatorie.md",
+                "file": "Introduzione al corso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variabili aleatorie"
+              "title": "Introduzione al corso"
             }
           }
         ]
@@ -173,7 +173,9 @@
   "active": "211b4075f4840778",
   "lastOpenFiles": [
     "index.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie continue.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete multiple.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete.md",
     "Probabilità/Variabili aleatorie",
     "Introduzione al corso.md",
     "Probabilità/Calcolo combinatorio.md",
@@ -210,13 +212,11 @@
     "Aritmetica",
     "Reti logiche/Circuiti sequenziali",
     "temp/09-16.md",
-    "Componenti fisiche di internet.md",
     "VHDL",
     "Reti logiche",
     "data",
     "Algebra di Boole",
     "temp",
-    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
     "Equazioni differenziali/Studio qualitativo"
   ]
 }
