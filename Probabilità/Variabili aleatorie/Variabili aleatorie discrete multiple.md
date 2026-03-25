@@ -1,4 +1,4 @@
-Esistono diverse leggi che riguardano il caso in cui ci siano più variabili aleatorie.
+Esistono diverse leggi che riguardano il caso in cui ci siano più variabili aleatorie nel caso discreto.
 
 ### Legge di probabilità congiunte
 >[!note]
