@@ -34,3 +34,4 @@ Esistono diverse leggi che riguardano il caso in cui ci siano più variabili ale
 >Siano $X$ e $Y$ due variabili aleatorie continue. Si ha che: $$f_{X|Y}(x,y)= \frac{f_{Y|X}(y|x)f_{X}(x)}{f_{Y}(y)}$$
 
 Questa regola vale anche se si combinano variabili aleatorie discrete o continue.
+

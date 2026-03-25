@@ -9,4 +9,4 @@ Il corso introduce i concetti di probabilità e variabili casuali, partendo da s
 		1. [[Variabili aleatorie discrete multiple]]
 	5. [[Variabili aleatorie continue]]
 		1. [[Variabili aleatorie continue multiple]]
-	6. [[Funzioni di variabili aleatorie]]
+		2. [[Funzioni di variabili aleatorie]]

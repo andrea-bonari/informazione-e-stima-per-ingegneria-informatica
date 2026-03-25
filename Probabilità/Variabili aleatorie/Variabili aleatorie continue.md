@@ -49,3 +49,7 @@ $$\begin{align*}
 &F_{X} \text{ strettamente non decrescente }\forall x\in\mathbb{R}\\
 &\frac{\text{d}}{\text{d}x}F_{X}(x)= f_{X}(x)
 \end{align*}$$
+
+### Legge di probabilità Gaussiana
+>[!note]
+>Sia $X$ una variabile aleatoria continua. Diciamo che $X$ è Gaussiana se e solo se: $$X\sim\mathcal{N}(\mu_{x},\sigma_{x}^{2})\iff f_{X}(x)= \frac{1}{\sqrt{2\pi\sigma_{x}^{2}}}e^{-\frac{(x-\mu_{x})^{2}}{2\sigma_{x}^{2}}}$$
