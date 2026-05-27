@@ -1,5 +1,5 @@
 >[!note]
->Sia $X$ una variabile aleatoria con legge di probabilità: $f_{X}$. Sia inoltre $Y=g(X)=aX+b$, con $a,b$ constanti note e $a\neq0$.
+>Sia $X$ una variabile aleatoria con legge di probabilità $f_{X}$. Sia inoltre $Y=g(X)=aX+b$, con $a,b$ constanti note e $a\neq0$.
 >In generale, si ha che: $$f_{Y}(y)=f_{X}\left( \frac{y-b}{a}\right)\cdot \frac{1}{|a|}\qquad \forall a\in\mathbb{R}\smallsetminus\set{0}\quad\forall b$$
 
 >[!tip] Metodo diretto
@@ -50,6 +50,10 @@ In generale, si ha che la somma di due variabili aleatorie Gaussiane è Gaussian
 
 Si ha che $\text{Cov}[X,X]=\text{Var}[X]$. Inoltre per $X\perp Y$, si ha che: $\text{Cov}[X,Y]=0$.
 
+>[!tip] Coefficiente di correlazione lineare
+>Definiamo il coefficiente di correlazione lineare come: $$\rho[X,Y]= \frac{\text{Cov}[X,Y]}{\sigma_{X}\sigma_{Y}}= E\left[\frac{(X-E[X])}{\sigma_{X}}, \frac{(Y-E[Y])}{\sigma_{Y}}\right]$$
+>Si ha che $|\rho[X,Y]|\leq1$, in particolare se $|\rho[X,Y]|=1$ allora $Y=aX+b\quad a,b\in\mathbb{R}$. Inoltre: $$X\perp Y\implies \rho[X,Y]=0$$
+
 ### Varianza della somma di variabili aleatorie
 >[!note]
 >Siano $X_{i}$ delle variabili aleatorie. Introducendo $\stackrel{\sim}{X_{i}}=X_{i}-E[X_{i}]$, possiamo dire che:
@@ -61,3 +65,5 @@ Si ha che $\text{Cov}[X,X]=\text{Var}[X]$. Inoltre per $X\perp Y$, si ha che: $\
 >&= \sum\limits_{i=1}^{n}\text{Var}[X_{i}]+\sum\limits_{i\neq j}\text{Cov}[X_{i},X_{j}]\\
 >\end{align*}$$
 
+### Somma di un numero casuale di variabili aleatorie
+>[!note]

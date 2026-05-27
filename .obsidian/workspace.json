@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0952f8ea2b975763",
+            "id": "233ffbbea2f84503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilità/Variabili aleatorie/Funzioni di variabili aleatorie.md",
+                "file": "Processi casuali/Processi di Bernoulli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funzioni di variabili aleatorie"
+              "title": "Processi di Bernoulli"
+            }
+          },
+          {
+            "id": "1af72a44b0953905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria dell'informazione/Teoria dell'informazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoria dell'informazione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Legge di probabilità",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,53 +185,53 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0952f8ea2b975763",
+  "active": "98b3f8a83d1b295f",
   "lastOpenFiles": [
-    "Probabilità/Variabili aleatorie/Variabili aleatorie continue.md",
+    "index.md",
+    "Teoria dell'informazione/Codifica di sorgente.md",
+    "Teoria dell'informazione/Teoria dell'informazione.md",
+    "Simulazioni/Applicazioni di simulazione di esperimenti aleatori.md",
+    "Teoria dell'informazione",
+    "Simulazioni/Simulazione di esperimenti aleatori.md",
+    "Stima bayesiana/Stimatori lineari/Stima LMS lineare.md",
+    "Simulazioni",
+    "Stima bayesiana/Stimatori lineari/Stimatore lineare a minimo errore quadratico medio.md",
+    "Stima bayesiana/Stima Bayesiana.md",
+    "Stima bayesiana/Stimatori lineari",
+    "Processi casuali/Processi di Poisson.md",
+    "Stima bayesiana",
+    "Processi casuali/Processi di Bernoulli.md",
+    "Probabilità/Calcolo delle probabilità.md",
+    "Introduzione al corso.md",
+    "Probabilità/Teorema fondamentale del limite.md",
+    "Processi casuali",
+    "Probabilità/Variabili aleatorie/Successioni di variabili aleatorie.md",
+    "Cheat sheet.md",
+    "Probabilità/Valore atteso condizionato.md",
     "Probabilità/Variabili aleatorie/Variabili aleatorie continue multiple.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete multiple.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie continue.md",
     "Probabilità/Variabili aleatorie/Funzioni di variabili aleatorie.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete multiple.md",
     "Probabilità/Calcolo combinatorio.md",
     "Probabilità/Probabilità condizionate.md",
-    "index.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete.md",
     "Probabilità/Statistiche congiunte.md",
     "Funzioni di variabili aleatorie.md",
-    "Introduzione al corso.md",
     "Probabilità/Variabili aleatorie",
     "Probabilità/Indipendenza.md",
-    "Probabilità/Calcolo delle probabilità.md",
     "Probabilità",
-    "VHDL/Linguaggio VHDL.md",
-    "Reti logiche/Logiche programmabili.md",
-    "Reti logiche/Algebra di Boole.md",
-    "Reti logiche/Circuiti sequenziali/Circuiti sequenziali.md",
-    "Aritmetica/Numeri a virgola mobile.md",
-    "Aritmetica/Aritmetica binaria.md",
-    "VHDL/Process.md",
-    "Reti logiche/Sintesi di reti combinatorie a due livelli.md",
-    "Reti logiche/Segnali binari.md",
     "data/Pasted image 20260117173911.png",
     "data/Pasted image 20260117173419.png",
     "data/Pasted image 20260117173250.png",
-    "Reti logiche/Circuiti sequenziali/Sintesi sequenziale sincrona.md",
-    "Reti logiche/Circuiti sequenziali/Registri.md",
     "data/Pasted image 20260114143341.png",
     "data/Pasted image 20260114142550.png",
     "data/Pasted image 20260114142511.png",
-    "Reti logiche/Circuiti sequenziali/FSM non completamente specificate.md",
     "data/Pasted image 20260114141903.png",
     "data/Pasted image 20260114141349.png",
-    "Dispensa 2a parte API.md",
     "data/Pasted image 20251218181725.png",
     "data/Pasted image 20251218162151.png",
     "Aritmetica",
     "Reti logiche/Circuiti sequenziali",
-    "VHDL",
-    "Reti logiche",
-    "data",
-    "Algebra di Boole",
-    "temp",
-    "Equazioni differenziali/Studio qualitativo"
+    "VHDL"
   ]
 }
