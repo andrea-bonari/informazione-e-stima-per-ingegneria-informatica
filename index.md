@@ -17,7 +17,6 @@ Il corso introduce i concetti di probabilità e variabili casuali, partendo da s
 	1. [[Processi di Poisson]]
 4. [[Stima Bayesiana]]
 	1. [[Stimatore lineare a minimo errore quadratico medio]]
-	2. [[Stima LMS lineare]]
 5. [[Simulazione di esperimenti aleatori]]
 	1. [[Applicazioni di simulazione di esperimenti aleatori]]
 6. [[Teoria dell'informazione]]

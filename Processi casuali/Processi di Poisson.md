@@ -51,9 +51,13 @@ Con $T_{i}$ variabili indipendenti e identicamente distribuite e $T_{i}\sim\text
 >Y_{i}=1,Z_{i}=0\quad\text{con probabilità }p\\Y_{i}=0,Z_{i}=1\quad\text{altrimenti}
 >\end{cases}
 >\end{align*}$$
->Si ha che i processi risultanti avranno omgeneità temporlae, cioè l'intensità degli arrivi è indipendente dal tempo: $$\text{PP}(p\lambda)\quad\text{e}\quad\text{PP}((1-p)\lambda)$$
+>Si ha che i processi risultanti avranno omogeneità temporale, cioè l'intensità degli arrivi è indipendente dal tempo: $$\text{PP}(p\lambda)\quad\text{e}\quad\text{PP}((1-p)\lambda)$$
 
 ### Incidenza casuale per processi di Poisson
+>[!note]
+>Consideriamo un processo di Poisson, e lo osserviamo a partire da un tempo casuale. La distribuzione della lunghezza dell'intervallo di tempo che trascorre tra $2$ arrivi consecutivi a cavallo dell'istante di tempo scelto è: $$W\sim\text{Erlang-2}(\lambda)$$
 
 ### Approssimazione Poissoniana della Binomiale
-
+>[!note]
+>Sotto l'ipotesi di avere $n\cdot p$ costante, possiamo approssimare: $$\text{Bin}\left(n, \frac{1}{n}\right)\approx \text{Poisson}(\underbrace{\lambda \tau}_{n\cdot p})$$
+>Inoltre, per $n\cdot p\stackrel{n\to\infty}{\to}\infty$: $$\text{Bin}\left(n, \frac{1}{n}\right)\approx \mathcal{N}$$

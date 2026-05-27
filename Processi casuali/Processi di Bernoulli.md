@@ -39,7 +39,7 @@
 >\end{cases}
 >\end{align*}$$
 >Si ha che le $Y_{i}$ sono di Bernoulli, e che per $i\neq j$ si ha $Y_{i}\perp Y_{j}$ (analoghi sono questi ragionamenti per $Z$). Inoltre: $$Y\sim\text{BP}(p\cdot q)\qquad Z\sim\text{BP}(p\cdot(1-q))$$
->Infine si ha che: $$Y\centernot\perp Z$$
+>Infine si ha che: $$Y\not\perp Z$$
 
 ### Merging di un processo di Bernoulli
 >[!note]
