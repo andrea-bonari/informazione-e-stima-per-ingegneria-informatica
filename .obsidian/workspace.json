@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Teoria dell'informazione/Codifica di sorgente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Codifica di sorgente"
             }
           }
         ]
@@ -172,21 +172,23 @@
   },
   "active": "1af72a44b0953905",
   "lastOpenFiles": [
+    "Teoria dell'informazione/Teoria dell'informazione.md",
+    "Teoria dell'informazione/Codifica di sorgente.md",
+    "index.md",
+    "Stima bayesiana/Stima Bayesiana.md",
     "Simulazioni/Simulazione di esperimenti aleatori.md",
+    "Simulazioni/Importance Sampling.md",
+    "Simulazioni/Calcolo di integrali.md",
+    "Simulazioni/Simulazione Monte Carlo.md",
+    "Stima bayesiana/Stimatore lineare a minimo errore quadratico medio.md",
     "Probabilità/Variabili aleatorie/Successioni di variabili aleatorie.md",
     "Probabilità/Teorema fondamentale del limite.md",
-    "index.md",
-    "Stima bayesiana/Stimatore lineare a minimo errore quadratico medio.md",
-    "Stima bayesiana/Stima Bayesiana.md",
     "data/Pasted image 20260527181649.png",
     "data/Pasted image 20260527175045.png",
     "data",
     "Processi casuali/Processi di Poisson.md",
     "Probabilità/Variabili aleatorie/Variabili aleatorie continue.md",
     "Processi casuali/Processi di Bernoulli.md",
-    "Teoria dell'informazione/Teoria dell'informazione.md",
-    "Teoria dell'informazione/Codifica di sorgente.md",
-    "Simulazioni/Applicazioni di simulazione di esperimenti aleatori.md",
     "Teoria dell'informazione",
     "Stima bayesiana/Stimatori lineari/Stima LMS lineare.md",
     "Simulazioni",
@@ -204,7 +206,6 @@
     "Probabilità/Probabilità condizionate.md",
     "Probabilità/Variabili aleatorie/Variabili aleatorie discrete.md",
     "Probabilità/Statistiche congiunte.md",
-    "Funzioni di variabili aleatorie.md",
     "Probabilità/Variabili aleatorie",
     "Probabilità",
     "data/Pasted image 20260117173911.png",
