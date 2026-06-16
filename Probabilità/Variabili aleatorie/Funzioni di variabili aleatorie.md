@@ -65,5 +65,3 @@ Si ha che $\text{Cov}[X,X]=\text{Var}[X]$. Inoltre per $X\perp Y$, si ha che: $\
 >&= \sum\limits_{i=1}^{n}\text{Var}[X_{i}]+\sum\limits_{i\neq j}\text{Cov}[X_{i},X_{j}]\\
 >\end{align*}$$
 
-### Somma di un numero casuale di variabili aleatorie
->[!note]

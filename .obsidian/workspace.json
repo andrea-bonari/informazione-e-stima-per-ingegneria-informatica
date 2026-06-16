@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria dell'informazione/Codifica di sorgente.md",
+                "file": "Probabilità/Variabili aleatorie/Funzioni di variabili aleatorie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codifica di sorgente"
+              "title": "Funzioni di variabili aleatorie"
             }
           }
         ]
@@ -172,8 +172,15 @@
   },
   "active": "1af72a44b0953905",
   "lastOpenFiles": [
-    "Teoria dell'informazione/Teoria dell'informazione.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie continue multiple.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie continue.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete.md",
+    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete multiple.md",
+    "Probabilità/Variabili aleatorie/Successioni di variabili aleatorie.md",
+    "Probabilità/Variabili aleatorie/Funzioni di variabili aleatorie.md",
+    "Probabilità/Probabilità condizionate.md",
     "Teoria dell'informazione/Codifica di sorgente.md",
+    "Teoria dell'informazione/Teoria dell'informazione.md",
     "index.md",
     "Stima bayesiana/Stima Bayesiana.md",
     "Simulazioni/Simulazione di esperimenti aleatori.md",
@@ -181,13 +188,11 @@
     "Simulazioni/Calcolo di integrali.md",
     "Simulazioni/Simulazione Monte Carlo.md",
     "Stima bayesiana/Stimatore lineare a minimo errore quadratico medio.md",
-    "Probabilità/Variabili aleatorie/Successioni di variabili aleatorie.md",
     "Probabilità/Teorema fondamentale del limite.md",
     "data/Pasted image 20260527181649.png",
     "data/Pasted image 20260527175045.png",
     "data",
     "Processi casuali/Processi di Poisson.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie continue.md",
     "Processi casuali/Processi di Bernoulli.md",
     "Teoria dell'informazione",
     "Stima bayesiana/Stimatori lineari/Stima LMS lineare.md",
@@ -199,12 +204,7 @@
     "Processi casuali",
     "Cheat sheet.md",
     "Probabilità/Valore atteso condizionato.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie continue multiple.md",
-    "Probabilità/Variabili aleatorie/Funzioni di variabili aleatorie.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete multiple.md",
     "Probabilità/Calcolo combinatorio.md",
-    "Probabilità/Probabilità condizionate.md",
-    "Probabilità/Variabili aleatorie/Variabili aleatorie discrete.md",
     "Probabilità/Statistiche congiunte.md",
     "Probabilità/Variabili aleatorie",
     "Probabilità",

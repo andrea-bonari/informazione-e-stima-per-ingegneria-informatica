@@ -65,5 +65,3 @@ $$X\perp Y\implies\text{Var}[X+Y]=\text{Var}[X]+\text{Var}[Y]$$
 >[!tip] Variabili aleatorie di Bernoulli
 >Definiamo una variabile aleatoria come di Bernoulli se:
 >$$X_{i}\sim\text{Bern}(p)\iff E[X_{i}]=p=p_{X_{i}}(1)$$
-
-
