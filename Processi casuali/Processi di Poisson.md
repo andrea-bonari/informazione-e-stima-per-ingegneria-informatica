@@ -15,7 +15,7 @@ E quindi: $$\lim_{\delta\to 0}\frac{E[\text{numero di arrivi in un tempo }\delta
 >\end{cases}$$
 >Da questa ricaviamo la legge di Poisson: $$N_{[0,\tau]}\sim\text{Poisson}(\lambda\cdot \tau)$$
 
-La legge di Poisson ha la caratteristica di avere: $$\sum\limits_{k=0}^{\infty} \frac{(\lambda\tau)^{k}}{k!}e^{-\lambda t}=1$$
+La legge di Poisson ha la caratteristica di avere: $$\sum\limits_{k=0}^{\infty} \frac{(\lambda\tau)^{k}}{k!}e^{-\lambda \tau}=1$$
 Inoltre si ha: $$E[N_{[0,\tau]}]=\lambda \tau\qquad\text{Var}[N_{[0,\tau]}]=\lambda \tau$$
 ### Distribuzione del tempo al $k$-esimo arrivo
 >[!note]
